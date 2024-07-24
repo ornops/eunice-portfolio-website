@@ -1,15 +1,22 @@
+html{
+    scroll-behavior: smooth;
+  }
 *{
-    box-sizing: border-box;
-}
-body{
     margin: 0;
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
-}
+    padding: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
 a{
     text-decoration: none;
 
+}
+.default-layout{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: auto;
 }
