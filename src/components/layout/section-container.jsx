@@ -1,9 +1,9 @@
 import React from 'react'
 
 
-const SectionContainer = ({children,customClass}) => {
+const SectionContainer = ({children,layout}) => {
   return (
-    <div className={customClass}>
+    <div className={layout}>
         {children}
     </div>
   )
