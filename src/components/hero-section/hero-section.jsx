@@ -1,5 +1,6 @@
 import React from 'react'
 import './hero-section.scss'
+import Images from '../../assets/images'
 
 
 
@@ -10,8 +11,9 @@ const HeroSection = () => {
         <div className='hero-left-section'>
             <div className='hero-name'>Eunice</div>
             <div className='hero-name'>Napalit</div>
-            <div className='hero-image-container' />
-
+            <div className='hero-image-container'>
+              <img src={Images.heroImage} alt="" />
+            </div>
         </div>
         <div className='hero-right-section'>
             <div className='hero-role role-title'>QA Automations Engineer</div>
