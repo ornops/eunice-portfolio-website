@@ -12,7 +12,7 @@ const HeroSection = () => {
             <div className='hero-name'>Eunice</div>
             <div className='hero-name'>Napalit</div>
             <div className='hero-image-container'>
-              <img src={Images.heroImage} alt="" />
+              <img src={Images.heroSectionImage} alt="" />
             </div>
         </div>
         <div className='hero-right-section'>
