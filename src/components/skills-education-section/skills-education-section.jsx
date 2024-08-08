@@ -23,8 +23,8 @@ const SkillsEducationSection = () => {
                 <h1>Skills</h1>
                 <ul>
                     <li>Tech Support</li>
-                    <li>Manual QA</li>
-                    <li>QA Automations Testing</li>
+                    <li>Manual QA Engineering</li>
+                    <li>QA Test Automations</li>
                     <li>Java Development</li>
                 </ul>
             </div>
