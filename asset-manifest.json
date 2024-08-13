@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eunice-portfolio-website/static/css/main.f538e8e1.css",
+    "main.css": "/eunice-portfolio-website/static/css/main.9871e99e.css",
     "main.js": "/eunice-portfolio-website/static/js/main.772e8259.js",
     "static/js/453.f575aa9f.chunk.js": "/eunice-portfolio-website/static/js/453.f575aa9f.chunk.js",
     "static/media/skills-image-2.png": "/eunice-portfolio-website/static/media/skills-image-2.a5b3052f3f672fde89be.png",
@@ -10,12 +10,12 @@
     "static/media/trax-image.avif": "/eunice-portfolio-website/static/media/trax-image.9ca2d58ca91223bd364b.avif",
     "static/media/reasonate-image.avif": "/eunice-portfolio-website/static/media/reasonate-image.ec2331bf47439144500f.avif",
     "index.html": "/eunice-portfolio-website/index.html",
-    "main.f538e8e1.css.map": "/eunice-portfolio-website/static/css/main.f538e8e1.css.map",
+    "main.9871e99e.css.map": "/eunice-portfolio-website/static/css/main.9871e99e.css.map",
     "main.772e8259.js.map": "/eunice-portfolio-website/static/js/main.772e8259.js.map",
     "453.f575aa9f.chunk.js.map": "/eunice-portfolio-website/static/js/453.f575aa9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f538e8e1.css",
+    "static/css/main.9871e99e.css",
     "static/js/main.772e8259.js"
   ]
 }
